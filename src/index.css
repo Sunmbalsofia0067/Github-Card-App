@@ -1,0 +1,25 @@
+.github-profile {
+    margin: 1rem;
+    display: flex;
+    align-items: flex-start;
+}
+
+.info {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+img {
+    width: 75px;
+}
+
+.name {
+    font-size: 100%;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 11px;
+}
+
+.company {
+    font-size: 70%;
+}
